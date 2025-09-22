@@ -39,17 +39,13 @@ Think of Wai as the **deep aquifer** — it grows as the community invests in it
 - **Community Dashboard**: Stats on ecosystem health: total credits circulating, projects launched, contributors onboarded.
 
 ## 🚀 MVP Deliverables (Flexible)
-- Sign Up – Members receive a profile (via email, QR badge, or wallet).
-- Earn Credits/Bucks – Attend events, volunteer, contribute code or knowledge.
-- Redeem & Spend – Use credits at partner vendors, coworking hubs, or events.
-- Track Impact – Tool logs volunteer hours, social impact, and circulating value.
+- **Sign Up** – Members be able to sign up for and make a profile
+- **Earn Credits/Bucks** – Attend events, volunteer, or knowledge.
+- **Redeem & Spend** – Use credits at partner vendors, coworking hubs, or events.
+- **Track Impact** – Tool logs volunteer hours, social impact, and circulating value.
 
 ## 📜 Guiding Principles
-- Circulation, not extraction – Value should keep flowing in the network.
-- Reciprocity – Everyone (volunteers, businesses, nonprofits) both earns and spends.
-- Scaffolded growth – Start simple (points, punch cards), scale up (wallets, DAO).
-- Aloha ʻĀina First – Currency exists only because of and for the ʻāina.
-
- Pilot at hackathons & ʻāina workdays.
-
- Expand to co-op + DAO hybrid governance model.
+- **Circulation, not extraction** – Value should keep flowing in the network.
+- **Reciprocity** – Everyone (volunteers, businesses, nonprofits) both earns and spends.
+- **Scaffolded growth** – Start simple (points, punch cards), scale up (wallets, DAO).
+- **Aloha ʻĀina First** – Currency exists only because of and for the ʻāina.
