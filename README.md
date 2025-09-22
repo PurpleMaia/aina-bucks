@@ -33,7 +33,7 @@ Think of Wai as the **deep aquifer** — it grows as the community invests in it
 
 ## 🛠 Features of the Member Tool
 
-- **Balance Tracking**: View your ʻAuwai Credits, ʻĀina Bucks, and Wai Shares.
+- **Balance Tracking**: View your ʻAuwai Credits or ʻĀina Bucks.
 - **Redemption Portal**: Spend ʻAuwai Credits or ʻĀina Bucks for coffee, coworking, merch, or rent offsets.
 - **Contribution Log**: See where and how you earned value (events, projects, volunteer hours).
 - **Community Dashboard**: Stats on ecosystem health: total credits circulating, projects launched, contributors onboarded.
