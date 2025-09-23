@@ -3,9 +3,12 @@
 // 3. generate types using `npm run kysely:generate`
 // 4. import `db` from this file wherever you need to query the database
 
+/* UNCOMMENT CODE BLOCK AFTER SETTING UP YOUR DATABASE AND RUNNING MIGRATIONS */
+
+/*
 import { Kysely, PostgresDialect } from 'kysely';
 import { Pool } from 'pg'
-import { DB } from '../types'
+import { DB } from '../types' 
 
 // Create a single pool instance with proper configuration
 const pool = new Pool({
@@ -36,11 +39,11 @@ if (process.env.NODE_ENV === 'development') {
   });
 }
 
-export const db = new Kysely<DB>({
-  dialect: new PostgresDialect({
-    pool,
-  }),
-});
+// export const db = new Kysely<DB>({
+//   dialect: new PostgresDialect({
+//     pool,
+//   }),
+// });
 
 // Graceful shutdown
 process.on('SIGINT', async () => {
@@ -57,3 +60,4 @@ process.on('SIGTERM', async () => {
 
 // Export pool for manual cleanup if needed
 export { pool };
+*/
