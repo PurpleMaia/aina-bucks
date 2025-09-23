@@ -5,24 +5,10 @@
 
 **Reference:** https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 
-2. Create a new Next.js app
+2. Install packages
 
-**Reference:** https://nextjs.org/docs/app/getting-started/installation
+`npm install`
 
-## Project Database Querying Setup
-1. Install **Kysely & Kysely Codegen** (querying language at project level)
-- `npm install kysely`
-- `npm install --save-dev pg`
-- `npm install —-save-dev kysely-codegen`
-
-2. Create runnable script shortcut in `package.json`
-```
-# Under the scripts object, add this command:
-"scripts": {      
-    # existing scripts...
-    "kysely:generate": "kysely-codegen" <--
-  },
-```
 *whenever you need to rerun Kysely Database types, run this command:* `npm run kysely:generate`
 
 3. Read `KYSELY.md` in `db/references` on more about Kysely
